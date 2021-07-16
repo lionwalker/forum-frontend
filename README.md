@@ -1,4 +1,4 @@
-# forum-frontend
+# Installation
 
 ## Project setup
 ```
